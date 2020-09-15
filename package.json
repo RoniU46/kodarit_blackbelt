@@ -1,0 +1,20 @@
+{
+  "name": "kodarit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[A\u001b[B",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoniU46/kodarit_blackbelt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoniU46/kodarit_blackbelt/issues"
+  },
+  "homepage": "https://github.com/RoniU46/kodarit_blackbelt#readme"
+}
